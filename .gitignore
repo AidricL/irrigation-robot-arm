@@ -1,0 +1,32 @@
+# Arduino build files
+*.ino.cpp
+*.ino.elf
+*.ino.bin
+*.ino.map
+
+# Compiled Object files
+*.o
+*.a
+
+# Arduino temporary files
+*.d
+*.eep
+
+# Build folders
+build/
+build-*/
+
+# Arduino IDE temporary files
+*.tmp
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# VS Code (if used)
+.vscode/
+
+# JetBrains
+.idea/
